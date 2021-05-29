@@ -1,0 +1,112 @@
+.wrapper{
+	width: 1200px;
+	padding-left: 50px;
+}
+
+div{
+	
+	line-height: 1rem;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+
+.recent{
+	text-align: left;
+	margin-bottom: 0px;
+	padding: 15px 0 0 0;
+
+}
+
+.view{
+	text-align: right;
+	padding: 15px 0 0 0;
+	margin-bottom: 0px;
+	
+	
+
+}
+.oval{
+	width: 50px;
+	height: 20px;
+	border-radius: 10px;
+	font-size: 0.8rem;
+	text-align: center;
+	color: white;
+	background-color: darkblue;
+	padding-top: 1px;
+	line-height: 13px;
+	
+}
+.oval2{
+	width: 50px;
+	height: 20px;
+	font-size: 0.8rem;
+	text-align: center;
+	padding-top: 1px;
+	line-height: 13px;
+	margin-left: 20px;
+	opacity: 0.4;
+	
+}
+.flex{
+	display: flex;
+}
+ .navigation a{
+ 	text-decoration: none;
+ 	margin-right: 10px;
+ 	color: #000000;
+
+ 	 }
+
+ .navigation .footer{
+ 	text-align: right;
+ 		width: 100%
+
+ }
+ button{
+
+
+height: 40px;
+background-color: red;
+font-family: Heebo;
+font-style: normal;
+font-weight: 700;
+font-size: 90%;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+.post{
+	margin-top: 1rem;
+}
+ .john{
+ 	height: 50%;
+
+ }
+
+ .background{
+ 	background-color: #EDF7FA;
+ }
+
+ .background__2{
+ 	background-color: white;
+ }
+
+ .footer{
+ 	text-align: center;
+ }
+
+ i{
+ 	margin: 10px;
+ }
+
+ .footer p{
+ 	font-size: 0.5rem;
+ }
+
+ .rasm img{
+ 	width: 70%;
+
+ }
